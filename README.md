@@ -8,6 +8,8 @@ membuat package dan modul berdasarkan tugas sebelumnya
 
 4. lalu buatlah modul dengan nama file "main", yang berfungsi memanggil fungsi dari kedua package di atas
 
+![Screenshot (136)](https://user-images.githubusercontent.com/56973033/71551503-c2dd7b80-2a1b-11ea-896f-21079b43efee.png)
+
 
 berikut adalah outputnya
 ![Screenshot (137)](https://user-images.githubusercontent.com/56973033/71551419-c243e580-2a19-11ea-929f-c65babbb3e80.png)
